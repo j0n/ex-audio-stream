@@ -1,0 +1,20 @@
+{
+  "name": "audio-stream",
+  "version": "0.0.0",
+  "description": "stream the same sound to all connection",
+  "main": "index.js",
+  "dependencies": {
+    "web-audio-api": "~0.1.5",
+    "throttle": "~1.0.3",
+    "node-ffprobe": "~1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "sound"
+  ],
+  "author": "jon Andersson",
+  "license": "BSD-2-Clause"
+}
